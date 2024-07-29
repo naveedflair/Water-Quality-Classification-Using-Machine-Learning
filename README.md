@@ -29,12 +29,19 @@ Very Poor (>75)
 
 # Machine Learning Models:
 Logistic Regression
+
 Support Vector Machine (SVM)
+
 Decision Tree
+
 K-Nearest Neighbors (KNN)
+
 RandomForest
+
 CatBoost
+
 XGBoost
+
 Ensemble Methods (combining Random Forest, CatBoost, and MLPClassifier)
 
 # Results
