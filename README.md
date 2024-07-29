@@ -19,9 +19,12 @@ Calculation of unit weights and ideal values for these parameters.
 
 # Classification:
 Set contamination levels based on WQI:
+
 Excellent (0-25)
+
 Good (26-50)
 Poor (51-75)
+
 Very Poor (>75)
 
 # Machine Learning Models:
